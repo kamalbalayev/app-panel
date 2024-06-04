@@ -1,0 +1,18 @@
+{
+  "requiredField": "\"{n}\" is required!",
+  "minLengthField": "Minimum {n} characters required!",
+  "maxLengthField": "Maximum {n} characters allowed!",
+  "minValueField": "Minimum value required: \"{n}\"!",
+  "maxValueField": "Maximum value allowed: \"{n}\"!",
+  "emailField": "Invalid email format!",
+  "numericField": "Only numeric value allowed!",
+
+  "sameAsField": "Value mismatch",
+  "correctPhoneField": "Incorrect phone format!",
+  "correctTimeField": "Incorrect time format!",
+  "containsUppercaseField": "At least 1 uppercase letter required!",
+  "containsLowercaseField": "At least 1 lowercase letter required!",
+  "containsNumberField": "At least 1 number required!",
+  "containsSpecialField": "At least 1 special character required!",
+  "Must be a valid phone number (example: _)": "Must be a valid phone number (example: {e})"
+}

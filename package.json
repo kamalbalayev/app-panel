@@ -1,0 +1,32 @@
+{
+  "name": "app-panel",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@mdi/font": "latest",
+    "@nuxtjs/google-fonts": "latest",
+    "@nuxtjs/i18n": "latest",
+    "@sidebase/nuxt-auth": "latest",
+    "nuxt": "latest",
+    "sass": "latest",
+    "sass-loader": "latest",
+    "vite-plugin-vuetify": "latest"
+  },
+  "dependencies": {
+    "@nuxt/devtools": "latest",
+    "@pinia/nuxt": "latest",
+    "@vuelidate/core": "latest",
+    "@vuelidate/validators": "latest",
+    "pinia": "latest",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuetify": "latest"
+  }
+}
